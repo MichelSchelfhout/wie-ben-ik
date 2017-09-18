@@ -1,0 +1,110 @@
+h1{
+	padding-top: 10px;
+	height: 50px;
+	background-color: black; opacity: 0.8;
+	width: 900px;
+}
+section{
+	font-family: Helvetica;
+	
+}
+#title{
+
+color: cyan;
+}
+#Tekst{
+	
+	color: black; opacity: 1;
+	background-color: rgba(173, 173, 173, .5);
+	
+
+	width: 900px;
+}
+
+#FHeader{
+	font: 30px Helvetica;
+	margin-bottom: 0;
+	text-align: center;
+	font-weight: bold;
+	
+}
+#NoTop{
+
+	margin-top: 0;
+}
+#Vooropleiding{
+	height: 50px;
+	background-color: black; opacity: 0.8;
+	color: cyan;
+	font: 30px Helvetica;
+	text-align: center;
+	font-weight: bold;
+}	
+#Werkervaring{
+	height: 50px;
+	background-color: black; opacity: 0.8;
+	color: cyan;
+	font: 30px Helvetica;
+	text-align: center;
+	font-weight: bold;
+
+}
+.Geheel{
+	margin: 0 auto;
+	width: 50;
+
+}
+.Geheel{
+
+
+}
+
+p{
+	padding-left: 10px;
+}
+
+h3{
+	padding-left: 10px;
+}
+
+#fotocoolcat{
+
+	padding-left: 20px;
+	width: 250px;
+	height: 250px;
+}
+
+#fotorcn{
+
+	width: 250px;
+	height: 200px;
+}
+
+#fotothebe{
+
+	width: 250px;
+	height: 250px;
+}
+
+#fotopauw{
+
+	padding-left: 50px;
+	width: 250px;
+	height: 250px;
+}
+
+#fotogom{
+
+	width: 250px;
+	height: 150px;
+}
+
+a{
+
+	padding-left: 20px;
+}
+
+p{
+
+	padding-left: 20px;
+}
